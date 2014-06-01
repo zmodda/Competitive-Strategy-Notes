@@ -1,7 +1,8 @@
 ## Stages of R & D
 
 ####Basic Research
-* Development of scientific knowledge: the outcomes are difficult to protect. * Knowledge spillovers, or contacts. Prisoner's dilema, done in universities and labs.
+* Development of scientific knowledge: the outcomes are difficult to protect. 
+* Knowledge spillovers, or contacts. Prisoner's dilema, done in universities and labs.
 * Can be protected by patents or copyright, if two firms develop similar products, whoever comes first wins. often leeds to patent races.
 
 ####Applied Research
@@ -25,6 +26,7 @@ Two types:
 #### Drastic Innovation
 * The innovator can behave as a monopolist in the market (despite substitute products)
 * Example: Development of electric car
+
 #### Incremental Innovation
 * The innovator can increase profits but its strategy is still restricted by other non-innovating firms
 * Example: Improvement of battery unit that increases range or electric car
