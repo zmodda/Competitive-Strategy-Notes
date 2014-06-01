@@ -183,6 +183,16 @@ Research & Development
 
 ### Payoff Matrix
 p not known
+
+                                 Firm B
+          |--------|-----------|-----------------------------------|
+          |        |   No R&D  |               R&D                 |
+Firm A    |--------|-----------|-----------------------------------|
+          | No R&D |    0/0    |            0/24p-10               |
+          |   R&D  |  24p-10/0 | p(1-p)*24 + p*p*10 + (1-p)*0 - 10 |
+          |--------|-----------|-----------------------------------|
+
+
 			     B
                     No R&D        R&D
      No R&D          0 / 0      0 / 24p-10
@@ -217,7 +227,6 @@ A    R&D        8 / 0    0.125/0.125
 * Medium success rate -> R&D by one firm and pre-emption
 * High success rate -> R&D by both firms
 
- 
 # Sleeping Patents
 ### Phenomenon
 * Companies often apply for relatively minor patents
@@ -232,9 +241,6 @@ Patenting innovations that are close to own main product
 ### Example
 * Xerox was using sleeping patents to secure monopoly position in professional copier market
 * Reasoning: Practice was hindering technological progress
-
-
-
 
 
 
