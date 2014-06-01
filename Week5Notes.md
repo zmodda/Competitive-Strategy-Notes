@@ -182,7 +182,7 @@ Research & Development
 * Company A does not engage in R&D: profits = 0
 
 ### Payoff Matrix
-
+p not known
 			     B
                     No R&D        R&D
      No R&D          0 / 0      0 / 24p-10
@@ -200,13 +200,39 @@ A    R&D        -4 / 0   -4.875/-4.875
 
 p = 0.5
 			B
-                No R&D      R&D
+               No R&D       R&D
      No R&D     0 / 0      0 / 2
 A    R&D        2 / 0    -1.5/-1.5
 
 
+p = 0.75
+			B
+               No R&D       R&D
+     No R&D     0 / 0      0 / 8
+A    R&D        8 / 0    0.125/0.125
 
+
+### Comparison of Success Rates
+* Low success rate -> no R&D at all
+* Medium success rate -> R&D by one firm and pre-emption
+* High success rate -> R&D by both firms
+
+ 
 # Sleeping Patents
+### Phenomenon
+* Companies often apply for relatively minor patents
+* They have no intention of ever comercialising these
+-> Why?
+
+### Idea
+Patenting innovations that are close to own main product
+* Preventing competitors from inventing a close rival to own product
+* Maintain monopoly position
+
+### Example
+* Xerox was using sleeping patents to secure monopoly position in professional copier market
+* Reasoning: Practice was hindering technological progress
+
 
 
 
