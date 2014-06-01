@@ -1,5 +1,4 @@
-## Stages of R & D 
-_(Video 1)_
+## Stages of R & D
 
 ####Basic Research
 * Development of scientific knowledge: the outcomes are difficult to protect. 
@@ -12,9 +11,9 @@ _(Video 1)_
 ####Product Development
 * Identification of relevant consumers, tailor product to needs of the consumers
 
-## Types of Innovations 
-_(Video 2)_
+## Types of Innovations
 Two types:
+
 #### Product Innovation
 * Improvement of an existing product
 * Increase in willingness to pay of existing/potential buyers
@@ -35,4 +34,5 @@ Two types:
 
 
 
+:bowtie:
 
