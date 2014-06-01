@@ -1,4 +1,4 @@
-## Stages of R & D
+# Stages of R & D
 
 ####Basic Research
 * Development of scientific knowledge: the outcomes are difficult to protect. 
@@ -11,7 +11,7 @@
 ####Product Development
 * Identification of relevant consumers, tailor product to needs of the consumers
 
-## Types of Innovations
+# Types of Innovations
 Two types:
 
 #### Product Innovation
@@ -23,18 +23,18 @@ Two types:
 * Novel way of producting an existing product
 * Leads to reduction of production costs
 
-## Drastic vs Incremental Innovation
-#### Drastic Innovation
+#### Drastic vs Incremental Innovation
+##### Drastic Innovation
 * The innovator can behave as a monopolist in the market (despite substitute products)
 * Example: Development of electric car
 
-#### Incremental Innovation
+##### Incremental Innovation
 * The innovator can increase pr ofits but its strategy is still restricted by other non-innovating firms
 * Example: Improvement of battery unit that increases range or electric car
 
-## Incentives to Innovate
+# Incentives to Innovate
 
-### Competitive Market
+## Competitive Market
 #### Example
 ##### Setup
 * 100 consumers interested in motorbikes
@@ -72,7 +72,7 @@ Value of innovation to the focul company
 * 9900 is the value of innovation, how much each firm will be willing to pay to get patent that reduces the production costs.
 
 
-### Monopolist
+## Monopolist
 * Same Set Up as before.
 * Monopolist
 * 1 company producing and selling motorbikes
@@ -108,7 +108,30 @@ Value of innovation
 * Monopolist: 8,000 Euros
 * Replacement effect: For a given market structure, a monopolist has less incentive to innovate because of the higher level of pre-innovation profits.
 
-### Monopolist with Threat of Entry
+## Monopolist with Threat of Entry
+* Same set up as before
+* Monopolist
+  * 1 company producing and selling motorbikes
+* Potential entrant
+  * Potential entrant interested in innovation
 
-:bowtie:
+##### With Innovation
+* Entrant stays out of the market
+* Production costs of 200 Euros for monopolist
+* Monopolist sets price of 500 Euros
+  * 60 consumers buy motorbike
+  * Profits are (500-200) Euros * 60 = 18,000 Euros
+* Monopolist sets price of 400 Euros
+  * 100 consumers buy motorbike
+  * Profits are (400-200) Euros * 10 = 20,000 Euros
+
+
+##### Without Innovation
+* Entrants enters the market
+* Monopolist and entrant agree on price of 400 Euros
+* Market is shared equally (50 consumers each)
+
+# Innovation Under Competition
+
+# Sleeping Patents
 
