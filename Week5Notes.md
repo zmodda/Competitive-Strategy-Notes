@@ -65,15 +65,50 @@ Two types:
 * The overall profits of the company that innovates are 100*(299-200) = 100*99 = 9900
 * All other companies make zero profits
 
-#### Value of Innovation
+##### Value of Innovation
 Value of innovation to the focul company
 * Profits with innovation: 9900
 * Profits withot innovation: 0
 * 9900 is the value of innovation, how much each firm will be willing to pay to get patent that reduces the production costs.
 
 
-###
+### Monopolist
+* Same Set Up as before.
+* Monopolist
+* 1 company producing and selling motorbikes
+* No threat of entry of competitors
 
+##### Without Innovation
+* Production costs of 300 Euros
+* **Monopolist sets price of 500 Euros**
+  * 60 consumers buy motorbike
+  * Profits are 60(500-300) = 60*200 = 12,000 <- best strategy here
+* Monopolist sets price of 400 Euros
+  * 100 consumers buy motorbike
+  * Profits are 100(400-300) = 100*100 = 10,000
+
+##### With Innovation
+* Production costs of 200 Euros
+* Monopolist sets price of 500 Euros
+  * 60 consumers buy motorbike
+  * Profits are 60(500-200) = 60*300=18,000
+* Monopolist sets price of 400 Euros
+  * 100 consumers buy motorbike
+  * Profits are 100(400-200) = 100*200 = 20,000 <- best strategy here
+
+##### Value of Innovation
+* Value of innovation to the monopolist
+  * Profits with innovation: 20,000
+  * Profits without innovation: 12,000
+* Value = 20,000 - 12,000 = 8,000
+
+#### Comparison
+Value of innovation
+* Competitive Market: 9,900 Euros
+* Monopolist: 8,000 Euros
+* Replacement effect: For a given market structure, a monopolist has less incentive to innovate because of the higher level of pre-innovation profits.
+
+### Monopolist with Threat of Entry
 
 :bowtie:
 
