@@ -36,12 +36,13 @@ Two types:
 
 ### Competitive Market
 #### Example
+##### Setup
 * 100 consumers interested in motorbikes
   * 60 consumers would pay maximum 500 Euros
   * 40 consumers would pay maximum 400 Euros
 * With current tecnology: total production costs of 300 Euros
 
-* New process innovation: total production costs of 200 Euros
+* **New process innovation:** total production costs of 200 Euros
 
 * Whoever spends most on the innovation gets the innovation
   * By being granted a patent or 
@@ -62,11 +63,13 @@ Two types:
 * Company with innovation can set a price of 299 Euros
 * All consumers buy from this company
 * The overall profits of the company that innovates are 100*(299-200) = 100*99 = 9900
+* All other companies make zero profits
 
 #### Value of Innovation
 Value of innovation to the focul company
 * Profits with innovation: 9900
-* Profits withot innovation: 9900-0 = 9900
+* Profits withot innovation: 0
+* 9900 is the value of innovation, how much each firm will be willing to pay to get patent that reduces the production costs.
 
 
 ###
