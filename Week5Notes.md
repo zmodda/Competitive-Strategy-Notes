@@ -21,7 +21,7 @@ Two types:
 
 #### Process Innovation
 * Novel way of producting an existing product
-* Reduction of production costs
+* Leads to reduction of production costs
 
 ## Drastic vs Incremental Innovation
 #### Drastic Innovation
@@ -29,9 +29,41 @@ Two types:
 * Example: Development of electric car
 
 #### Incremental Innovation
-* The innovator can increase profits but its strategy is still restricted by other non-innovating firms
+* The innovator can increase pr ofits but its strategy is still restricted by other non-innovating firms
 * Example: Improvement of battery unit that increases range or electric car
 
+## Incentives to Innovate
+
+### Competitive Market
+#### Example
+* 100 consumers interested in motorbikes
+  * 60 consumers would pay maximum 500 Euros
+  * 40 consumers would pay maximum 400 Euros
+* With current tecnology: total production costs of 300 Euros
+
+* New process innovation: total production costs of 200 Euros
+
+* Whoever spends most on the innovation gets the innovation
+  * By being granted a patent or 
+  * Being fist in the market
+
+* Assume 10 companies producing and selling motorbikes in the competitive market
+* Prior to innovation, all have the same production technology
+
+##### Without Innovation
+* Total production costs of 300 Euros
+* Each company sets price equal to costs
+* Each company makes profits of zero
+
+##### With Innovation
+* Total production costs of
+  * 200 Euros for company that gets innovation
+  * 300 Euros for all others
+* Company with innovation can set a price of 299 Euros
+* All consumers buy from this company
+
+
+###
 
 
 :bowtie:
