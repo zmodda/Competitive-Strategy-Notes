@@ -61,6 +61,12 @@ Two types:
   * 300 Euros for all others
 * Company with innovation can set a price of 299 Euros
 * All consumers buy from this company
+* The overall profits of the company that innovates are 100*(299-200) = 100*99 = 9900
+
+#### Value of Innovation
+Value of innovation to the focul company
+* Profits with innovation: 9900
+* Profits withot innovation: 9900-0 = 9900
 
 
 ###
