@@ -125,11 +125,33 @@ Value of innovation
   * 100 consumers buy motorbike
   * Profits are (400-200) Euros * 10 = 20,000 Euros
 
-
 ##### Without Innovation
 * Entrants enters the market
 * Monopolist and entrant agree on price of 400 Euros
 * Market is shared equally (50 consumers each)
+* Production costs of
+  * 300 Euros for monopolist
+  * 200 Euros for entrant
+* Profits for monopolist are 50(400 - 300) = 5,000
+* Profits for entrant are 50(400 - 200) = 10,000
+
+##### Value of Innovation
+Value of innovation to the monopolist
+* Profits of innovation: 20,000
+* Profits without innovation: 5,000
+-> 15,000
+Value of innovation to the entrant
+* Profits of innovation: 10,000
+* Profits without innovation; 0
+-> 10,000 
+
+#### Comparison
+* Value of innovation
+  * Competitive Market: 9,900 Euros
+  * Monopolist: 8,000 Euros
+  * Monopolist with threat of entry: 15,000 Euros
+  * Entrant: 10,000 Euros
+* Efficieny effect: Under the threat of entry, a monopolist has higher incentives to innovate than a potential entrant into a market.
 
 # Innovation Under Competition
 
