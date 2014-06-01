@@ -175,7 +175,35 @@ Research & Development
   * 24 mn pounds if alone on the market
   * 10 mn pounds if with a competitor on the market
 
-###
+### Payoffs for Comapny A
+* Company A engages in R&D, company B does not: p*24 + (1-p)*0 - 10 = 24p - 10
+
+* Both companies engage in R&D: p(1-p)*24 + p*p*10 + (1-p)*0 - 10
+* Company A does not engage in R&D: profits = 0
+
+### Payoff Matrix
+
+			     B
+                    No R&D        R&D
+     No R&D          0 / 0      0 / 24p-10
+A    R&D        24p-10 / 0   p(1-p)*24 + p*p*10 + (1-p)*0 - 10
+
+
+
+p = 0.25
+			B
+                No R&D        R&D
+     No R&D      0 / 0       0 / -4
+A    R&D        -4 / 0   -4.875/-4.875
+
+
+
+p = 0.5
+			B
+                No R&D      R&D
+     No R&D     0 / 0      0 / 2
+A    R&D        2 / 0    -1.5/-1.5
+
 
 
 # Sleeping Patents
