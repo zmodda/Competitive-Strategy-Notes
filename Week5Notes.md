@@ -151,9 +151,37 @@ Value of innovation to the entrant
   * Monopolist: 8,000 Euros
   * Monopolist with threat of entry: 15,000 Euros
   * Entrant: 10,000 Euros
-* Efficieny effect: Under the threat of entry, a monopolist has higher incentives to innovate than a potential entrant into a market.
+* Efficiency effect: Under the threat of entry, a monopolist has higher incentives to innovate than a potential entrant into a market.
+
+#### Trade-Off
+* Replacement effect: Less innovation by monopolist
+* Efficiency Effect: More innovation by monopolist
+The higher the probability of entry, the more the efficiency effect will take place.
 
 # Innovation Under Competition
+### Trade-Off
+Research & Development
+* Chance of innovation with promising returns
+* Risk of losing R & D investments
+  * If no success at all
+  * If other company is faster
+
+### Set-Up
+* Pharmaceutical companies (A and B)
+* Have to decide whether to engage in R&D for a new drug against asthma
+* Fixed costs for R&D activity of 10 mn pounds
+* With likelihood **p** they come up with a marketable innovation
+* Profits from innovation
+  * 24 mn pounds if alone on the market
+  * 10 mn pounds if with a competitor on the market
+
+###
+
 
 # Sleeping Patents
+
+
+
+
+
 
